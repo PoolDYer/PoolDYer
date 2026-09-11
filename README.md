@@ -75,11 +75,11 @@ Mi objetivo es continuar construyendo proyectos que me permitan mejorar tanto mi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PoolDYer&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoolDYer&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -97,7 +97,7 @@ Mi objetivo es continuar construyendo proyectos que me permitan mejorar tanto mi
 Estoy interesado en conectar con otros desarrolladores, estudiantes y profesionales del área de tecnología para compartir conocimientos, colaborar en proyectos y seguir aprendiendo.
 
 <p align="center">
-  <a href="https://github.com/TU_USUARIO">
+  <a href="https://github.com/PoolDYer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="TU_LINKEDIN">

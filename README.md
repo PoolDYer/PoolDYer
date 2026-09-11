@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hola, soy Jean Pool 👋
 
-<!--
-**PoolDYer/PoolDYer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Software Engineering Student
 
-Here are some ideas to get you started:
+🎓 Ingeniería de Sistemas
+🏫 Universidad Nacional de San Cristóbal de Huamanga
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mí
+
+Soy estudiante de Ingeniería de Sistemas interesado en el
+desarrollo de software, arquitectura de sistemas y tecnologías
+modernas de desarrollo.
+
+### 🛠️ Tecnologías
+
+Frontend
+- React
+- Next.js
+- Flutter
+- SwiftUI
+
+Backend
+- NestJS
+- .NET
+- Node.js
+
+Bases de datos
+- PostgreSQL
+- MySQL
+- Firebase
+
+DevOps
+- Docker
+- GitHub Actions
+- CI/CD
+
+### 📌 Proyectos destacados
+
+- Aura Marketplace
+- PulseChat
+- StoreApp
+
+### 📊 GitHub
+
+[estadísticas...]
+
+### 📫 Contacto
+
+- GitHub
+- LinkedIn
+- Email

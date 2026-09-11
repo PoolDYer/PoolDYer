@@ -72,17 +72,6 @@ Mi objetivo es continuar construyendo proyectos que me permitan mejorar tanto mi
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PoolDYer&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoolDYer&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🔥 Actividad
 

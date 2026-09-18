@@ -1,105 +1,50 @@
-# 👋 Hola, soy Jean Pool
+<!-- ========================= -->
+<!--        HEADER             -->
+<!-- ========================= -->
 
-💻 **Estudiante de Ingeniería de Sistemas | Full Stack Developer | Software Engineering**
+<div align="center">
 
-Soy estudiante de Ingeniería de Sistemas apasionado por el desarrollo de software y la creación de soluciones tecnológicas. Me interesa especialmente el desarrollo **Full Stack, arquitectura de software, desarrollo móvil, backend y DevOps**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:00BFFF&height=220&section=header&text=Jean%20Pool&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineering&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-Actualmente estoy fortaleciendo mis conocimientos mediante proyectos reales, trabajando con diferentes tecnologías y aplicando buenas prácticas de ingeniería de software, arquitectura y desarrollo colaborativo.
+<br>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Software+Engineering+Student;Web+%7C+Mobile+%7C+Backend;DevOps+%7C+Cloud+%7C+Architecture;Building+scalable+software+solutions" />
 
-## 🚀 Sobre mí
+<br><br>
 
-Me gusta transformar ideas en productos de software funcionales, escalables y fáciles de mantener. Disfruto especialmente trabajar en proyectos donde puedo involucrarme tanto en el desarrollo del frontend como en el backend, además de explorar aspectos relacionados con arquitectura, bases de datos, testing y despliegue.
+<img src="https://komarev.com/ghpvc/?username=PoolDYer&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS" />
 
-También tengo interés en el desarrollo de aplicaciones móviles y en el ecosistema de herramientas modernas para construir, probar y desplegar software.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
-</p>
+</div>
 
 ---
 
-## 🛠️ Tecnologías
+<!-- ========================= -->
+<!--        ABOUT ME           -->
+<!-- ========================= -->
 
-### 💻 Desarrollo
+## 👋 Hola, soy **Jean Pool**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,dotnet,flutter,swift,swiftui" />
-</p>
+<div align="center">
 
-### 🗄️ Bases de datos
+### `Software Engineering Student` · `Full Stack Developer` · `Tech Enthusiast`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,mongodb" />
-</p>
+</div>
 
-### ☁️ DevOps & herramientas
+<br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,linux,aws" />
-</p>
+Soy estudiante de **Ingeniería de Sistemas** y desarrollador enfocado en la construcción de soluciones de software modernas, escalables y mantenibles.
 
----
+Me interesa especialmente el desarrollo **Full Stack**, la arquitectura de software, desarrollo móvil, backend, DevOps y las buenas prácticas de ingeniería de software.
 
-## 🚀 Proyectos destacados
+Actualmente trabajo en proyectos que combinan diferentes tecnologías para construir productos funcionales, con especial atención a:
 
-### 🛒 Aura Marketplace
-
-Proyecto de marketplace orientado a la compra y venta de productos, inspirado en plataformas como Mercado Libre.
-
-El proyecto busca aplicar conceptos de arquitectura de software, desarrollo frontend y backend, gestión de datos y buenas prácticas de ingeniería de software.
-
-### 💬 PulseChat
-
-Proyecto de aplicación de mensajería desarrollado para explorar el desarrollo de aplicaciones móviles, autenticación, almacenamiento de información y comunicación entre usuarios.
-
-### 📱 StoreApp
-
-Proyecto móvil desarrollado con **SwiftUI**, trabajando con Firebase y una arquitectura organizada por capas y funcionalidades.
-
----
-
-## 📚 Actualmente aprendiendo
-
-Actualmente estoy profundizando mis conocimientos en **arquitectura de software, desarrollo backend, DevOps, CI/CD, desarrollo móvil y buenas prácticas de ingeniería de software**.
-
-Mi objetivo es continuar construyendo proyectos que me permitan mejorar tanto mis habilidades técnicas como mi capacidad para diseñar y desarrollar sistemas completos.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350">
-</p>
-
----
-
-
-## 🔥 Actividad
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" />
-</p>
-
----
-
-## 🤝 Conectemos
-
-Estoy interesado en conectar con otros desarrolladores, estudiantes y profesionales del área de tecnología para compartir conocimientos, colaborar en proyectos y seguir aprendiendo.
-
-<p align="center">
-  <a href="https://github.com/PoolDYer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="TU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/8bZ3fXb6X4Y7W/giphy.gif" width="300">
-</p>
-
-<p align="center">
-  <b>💻 Code • Build • Learn • Repeat 🚀</b>
-</p>
+```text
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│   FRONTEND        BACKEND         MOBILE        DEVOPS   │
+│                                                          │
+│   UI/UX           APIs             Flutter        CI/CD   │
+│   React           .NET             SwiftUI        Docker  │
+│   TypeScript      Node.js          Firebase       Cloud   │
+│                                                          │
+└──────────────────────────────────────────────────────────┘

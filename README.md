@@ -22,12 +22,53 @@
 
 ---
 
-> [!TIP]
-> ### 🚀 Sobre mí
-> Soy estudiante de **Ingeniería de Sistemas** y desarrollador enfocado en la construcción de soluciones de software modernas, escalables y mantenibles.  
-> 
-> * 💡 **Enfoque técnico:** Arquitectura de software, backend robusto, interfaces reactivas y despliegues continuos.
-> * 🛠️ **Metodología:** Desarrollo guiado por buenas prácticas, patrones de diseño y código limpio.
+<!-- HEADER SECCIÓN SOBRE MÍ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:002244,100:00F2FE&height=45&text=⚡%20PROFILE%20OVERVIEW&fontSize=18&fontColor=00F2FE" width="100%"/>
+</div>
+
+<br/>
+
+> **Ingeniero de Sistemas en formación** y **Full Stack Developer** enfocado en el ciclo de vida completo del software. Especializado en el diseño e implementación de plataformas robustas, escalables y orientadas a microservicios, integrando interfaces de usuario de alto impacto con arquitecturas backend resilientes.
+
+<br/>
+
+<table align="center" width="100%">
+  <tr>
+    <th width="50%" align="center">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F2FE,100:4FACFE&height=32&text=🎯%20ARQUITECTURA%20&%20CORE&fontSize=14&fontColor=000000" width="100%"/>
+    </th>
+    <th width="50%" align="center">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF007F,100:7928CA&height=32&text=⚙️%20ESTÁNDARES%20&%20CALIDAD&fontSize=14&fontColor=ffffff" width="100%"/>
+    </th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <ul>
+        <li><b>Diseño de Sistemas:</b> Arquitecturas distribuidas, Clean Architecture y APIs RESTful de alto rendimiento.</li>
+        <li><b>Ecosistema Reactivo:</b> Gestión eficiente de estados, interfaces modulares y persistencia asíncrona.</li>
+        <li><b>Enfoque Cloud & Mobile:</b> Despliegues continuos y soluciones móviles multiplataforma.</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Clean_Architecture-00F2FE?style=flat-square&labelColor=0d1117"/>
+        <img src="https://img.shields.io/badge/Scalability-00D2FF?style=flat-square&labelColor=0d1117"/>
+        <img src="https://img.shields.io/badge/Cloud_Native-00F2FE?style=flat-square&labelColor=0d1117"/>
+      </p>
+    </td>
+    <td valign="top">
+      <ul>
+        <li><b>Metodología:</b> Implementación rigurosa de principios <b>SOLID</b> y patrones de diseño (GoF).</li>
+        <li><b>DevOps Culture:</b> Automatización de pruebas, contenedorización con Docker y pipelines CI/CD.</li>
+        <li><b>Mantenibilidad:</b> Filosofía de código limpio (Clean Code), refactorización continua y testing.</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/SOLID_Design-FF007F?style=flat-square&labelColor=0d1117"/>
+        <img src="https://img.shields.io/badge/Clean_Code-7928CA?style=flat-square&labelColor=0d1117"/>
+        <img src="https://img.shields.io/badge/CI%2FCD-FF007F?style=flat-square&labelColor=0d1117"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 

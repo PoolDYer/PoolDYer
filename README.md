@@ -1,87 +1,124 @@
 <div align="center">
+  <!-- BANNER SUPERIOR CON DEGRADADO Y ONDAS -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24&height=220&section=header&text=Jean%20Pool&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descFontSize=20&descAlignY=65" width="100%" />
 
+  <!-- TEXTO ANIMADO CON FUENTE FUTURISTA (ORBITRON) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Software+Engineering+Student;Building+Modern+%26+Scalable+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineering+Student;Building+Scalable+Solutions;DevOps+%26+Cloud+Enthusiast" alt="Typing SVG" />
   </a>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&label=Profile%20Views&color=00d2ff&style=flat-square" alt="Profile Views" />
+  <!-- PÍLDORAS / CAJAS DE ROL DESLUMBRANTES -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/🎓_STUDENT-Sistemas-00F2FE?style=for-the-badge&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/💻_ROLE-Full_Stack-FF007F?style=for-the-badge&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/⚡_FOCUS-Architecture-00FFA3?style=for-the-badge&labelColor=0d1117" />
+  </p>
+
+  <!-- CONTADOR DE VISITAS (Reemplaza 'jeanpool' por tu usuario exacto sin guiones bajos) -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=jeanpool&label=PROFILE%20VIEWS&color=00d2ff&style=for-the-badge" alt="Profile Views" />
   </p>
 </div>
 
 ---
 
-### 🚀 Sobre mí
-
-Soy estudiante de **Ingeniería de Sistemas** y desarrollador enfocado en la construcción de soluciones de software modernas, escalables y mantenibles.
-
-* 💡 Intereses: Arquitectura de software, desarrollo Full Stack, aplicaciones móviles y DevOps.
-* 🛠️ Enfoque: Construcción de productos de extremo a extremo aplicando buenas prácticas y código limpio.
-* 💬 Contáctame: Disponible para colaboraciones, retos técnicos y proyectos innovadores.
-
----
-
-### 💻 Stack Tecnológico
-
-#### Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-#### Backend
-<p>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-</p>
-
-#### Mobile
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/SwiftUI-007ACC?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-</p>
-
-#### DevOps & Herramientas
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
+> [!TIP]
+> ### 🚀 Sobre mí
+> Soy estudiante de **Ingeniería de Sistemas** y desarrollador enfocado en la construcción de soluciones de software modernas, escalables y mantenibles.  
+> 
+> * 💡 **Enfoque técnico:** Arquitectura de software, backend robusto, interfaces reactivas y despliegues continuos.
+> * 🛠️ **Metodología:** Desarrollo guiado por buenas prácticas, patrones de diseño y código limpio.
 
 ---
 
-### 📊 Estadísticas
-
+<!-- TÍTULO DE TECNOLOGÍAS CON TIPOGRAFÍA ESPECIAL NEÓN -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=%E2%9A%A1+TECH+STACK+%26+SKILLS" alt="Tech Stack Header" />
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<br/>
+
+<!-- CAJAS DE TECNOLOGÍAS DE COLORES (REEMPLAZO PROFESIONAL DEL CUADRO ASCII) -->
+<table align="center" width="100%">
+  <tr>
+    <th align="center" width="25%">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F2FE,100:4FACFE&height=36&text=🎨%20FRONTEND&fontSize=16&fontColor=000000" width="100%"/>
+    </th>
+    <th align="center" width="25%">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0844,100:FFB199&height=36&text=⚙️%20BACKEND&fontSize=16&fontColor=ffffff" width="100%"/>
+    </th>
+    <th align="center" width="25%">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:43E97B,100:38F9D7&height=36&text=📱%20MOBILE&fontSize=16&fontColor=000000" width="100%"/>
+    </th>
+    <th align="center" width="25%">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B224EF,100:7579FF&height=36&text=☁️%20DEVOPS&fontSize=16&fontColor=ffffff" width="100%"/>
+    </th>
+  </tr>
+  <tr>
+    <!-- COLUMNA FRONTEND -->
+    <td align="center" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/UI%2FUX-FF007F?style=for-the-badge&logo=figma&logoColor=white"/><br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/><br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br/><br/>
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+    </td>
+    <!-- COLUMNA BACKEND -->
+    <td align="center" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/REST_APIs-00D2FF?style=for-the-badge&logo=fastapi&logoColor=black"/><br/><br/>
+      <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/><br/><br/>
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/><br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/><br/><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    </td>
+    <!-- COLUMNA MOBILE -->
+    <td align="center" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/><br/><br/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/><br/><br/>
+      <img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white"/><br/><br/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+    </td>
+    <!-- COLUMNA DEVOPS -->
+    <td align="center" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/CI%2FCD-00E676?style=for-the-badge&logo=githubactions&logoColor=black"/><br/><br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/><br/><br/>
+      <img src="https://img.shields.io/badge/Cloud_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/><br/><br/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- SECCIÓN DE ESTADÍSTICAS -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&pause=1000&color=00FFA3&center=true&vCenter=true&width=500&lines=%F0%9F%93%8A+GITHUB+ACTIVITY+%26+METRICS" alt="Stats Header" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeanpool&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanpool&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+</div>
+
+<div align="center" style="margin-top: 15px;">
+  <img src="https://streak-stats.demolab.com?user=jeanpool&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 📬 Conéctate conmigo
-
+<!-- BOTONES DE CONTACTO LUMINOSOS -->
 <div align="center">
-  <a href="https://linkedin.com/in/TU_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:tu-correo@ejemplo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>

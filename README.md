@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/⚡_FOCUS-Architecture-00FFA3?style=for-the-badge&labelColor=0d1117" />
   </p>
 
-  <!-- CONTADOR DE VISITAS (Reemplaza 'jeanpool' por tu usuario exacto sin guiones bajos) -->
+  <!-- CONTADOR DE VISITAS (Reemplaza 'jeanpool' por tu usuario exacto) -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=jeanpool&label=PROFILE%20VIEWS&color=00d2ff&style=for-the-badge" alt="Profile Views" />
   </p>
@@ -22,9 +22,9 @@
 
 ---
 
-<!-- HEADER SECCIÓN SOBRE MÍ -->
+<!-- HEADER SECCIÓN SOBRE MÍ CON FUENTE ORBITRON -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:002244,100:00F2FE&height=45&text=⚡%20PROFILE%20OVERVIEW&fontSize=18&fontColor=00F2FE" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=%E2%9A%A1+PROFILE+OVERVIEW" alt="Profile Overview Header" />
 </div>
 
 <br/>
@@ -36,35 +36,33 @@
 <table align="center" width="100%">
   <tr>
     <th width="50%" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F2FE,100:4FACFE&height=32&text=🎯%20ARQUITECTURA%20&%20CORE&fontSize=14&fontColor=000000" width="100%"/>
+      <img src="https://img.shields.io/badge/-🎯%20ARQUITECTURA%20%26%20CORE-00F2FE?style=for-the-badge&labelColor=0d1117" height="40"/>
     </th>
     <th width="50%" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF007F,100:7928CA&height=32&text=⚙️%20ESTÁNDARES%20&%20CALIDAD&fontSize=14&fontColor=ffffff" width="100%"/>
+      <img src="https://img.shields.io/badge/-⚙️%20ESTÁNDARES%20%26%20CALIDAD-FF007F?style=for-the-badge&labelColor=0d1117" height="40"/>
     </th>
   </tr>
   <tr>
     <td valign="top">
-      <ul>
-        <li><b>Diseño de Sistemas:</b> Arquitecturas distribuidas, Clean Architecture y APIs RESTful de alto rendimiento.</li>
-        <li><b>Ecosistema Reactivo:</b> Gestión eficiente de estados, interfaces modulares y persistencia asíncrona.</li>
-        <li><b>Enfoque Cloud & Mobile:</b> Despliegues continuos y soluciones móviles multiplataforma.</li>
-      </ul>
+      <p>🔹 <b>Diseño de Sistemas:</b> Arquitecturas distribuidas, Clean Architecture y APIs RESTful de alto rendimiento.</p>
+      <p>🔹 <b>Ecosistema Reactivo:</b> Gestión eficiente de estados, interfaces modulares y persistencia asíncrona.</p>
+      <p>🔹 <b>Enfoque Cloud & Mobile:</b> Despliegues continuos y soluciones móviles multiplataforma.</p>
+      <br/>
       <p align="center">
-        <img src="https://img.shields.io/badge/Clean_Architecture-00F2FE?style=flat-square&labelColor=0d1117"/>
-        <img src="https://img.shields.io/badge/Scalability-00D2FF?style=flat-square&labelColor=0d1117"/>
-        <img src="https://img.shields.io/badge/Cloud_Native-00F2FE?style=flat-square&labelColor=0d1117"/>
+        <img src="https://img.shields.io/badge/Clean_Architecture-00F2FE?style=for-the-badge&labelColor=0d1117"/>
+        <img src="https://img.shields.io/badge/Scalability-00D2FF?style=for-the-badge&labelColor=0d1117"/>
+        <img src="https://img.shields.io/badge/Cloud_Native-00F2FE?style=for-the-badge&labelColor=0d1117"/>
       </p>
     </td>
     <td valign="top">
-      <ul>
-        <li><b>Metodología:</b> Implementación rigurosa de principios <b>SOLID</b> y patrones de diseño (GoF).</li>
-        <li><b>DevOps Culture:</b> Automatización de pruebas, contenedorización con Docker y pipelines CI/CD.</li>
-        <li><b>Mantenibilidad:</b> Filosofía de código limpio (Clean Code), refactorización continua y testing.</li>
-      </ul>
+      <p>🔹 <b>Metodología:</b> Implementación rigurosa de principios <b>SOLID</b> y patrones de diseño (GoF).</p>
+      <p>🔹 <b>DevOps Culture:</b> Automatización de pruebas, contenedorización con Docker y pipelines CI/CD.</p>
+      <p>🔹 <b>Mantenibilidad:</b> Filosofía de código limpio (Clean Code), refactorización continua y testing.</p>
+      <br/>
       <p align="center">
-        <img src="https://img.shields.io/badge/SOLID_Design-FF007F?style=flat-square&labelColor=0d1117"/>
-        <img src="https://img.shields.io/badge/Clean_Code-7928CA?style=flat-square&labelColor=0d1117"/>
-        <img src="https://img.shields.io/badge/CI%2FCD-FF007F?style=flat-square&labelColor=0d1117"/>
+        <img src="https://img.shields.io/badge/SOLID_Design-FF007F?style=for-the-badge&labelColor=0d1117"/>
+        <img src="https://img.shields.io/badge/Clean_Code-7928CA?style=for-the-badge&labelColor=0d1117"/>
+        <img src="https://img.shields.io/badge/CI%2FCD-FF007F?style=for-the-badge&labelColor=0d1117"/>
       </p>
     </td>
   </tr>
@@ -72,27 +70,27 @@
 
 ---
 
-<!-- TÍTULO DE TECNOLOGÍAS CON TIPOGRAFÍA ESPECIAL NEÓN -->
+<!-- TÍTULO DE TECNOLOGÍAS -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=%E2%9A%A1+TECH+STACK+%26+SKILLS" alt="Tech Stack Header" />
 </div>
 
 <br/>
 
-<!-- CAJAS DE TECNOLOGÍAS DE COLORES (REEMPLAZO PROFESIONAL DEL CUADRO ASCII) -->
+<!-- CAJAS DE TECNOLOGÍAS CON CABECERAS GRANDES Y LEGIBLES -->
 <table align="center" width="100%">
   <tr>
     <th align="center" width="25%">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F2FE,100:4FACFE&height=36&text=🎨%20FRONTEND&fontSize=16&fontColor=000000" width="100%"/>
+      <img src="https://img.shields.io/badge/-🎨%20FRONTEND-00F2FE?style=for-the-badge&labelColor=0d1117" height="38"/>
     </th>
     <th align="center" width="25%">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0844,100:FFB199&height=36&text=⚙️%20BACKEND&fontSize=16&fontColor=ffffff" width="100%"/>
+      <img src="https://img.shields.io/badge/-⚙️%20BACKEND-FF0844?style=for-the-badge&labelColor=0d1117" height="38"/>
     </th>
     <th align="center" width="25%">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:43E97B,100:38F9D7&height=36&text=📱%20MOBILE&fontSize=16&fontColor=000000" width="100%"/>
+      <img src="https://img.shields.io/badge/-📱%20MOBILE-00FFA3?style=for-the-badge&labelColor=0d1117" height="38"/>
     </th>
     <th align="center" width="25%">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B224EF,100:7579FF&height=36&text=☁️%20DEVOPS&fontSize=16&fontColor=ffffff" width="100%"/>
+      <img src="https://img.shields.io/badge/-☁️%20DEVOPS-B224EF?style=for-the-badge&labelColor=0d1117" height="38"/>
     </th>
   </tr>
   <tr>
